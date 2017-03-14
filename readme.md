@@ -2,7 +2,8 @@
 
 FXCM currently offers 3 trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server.
  
-In order to register for our FIX API there is minimum account size requirement of USD $25K per account while the other 2 APIs don’t require a minimum account size. It is also very important to note that historical prices are available only via ForexConnect and Java API
+FIX API requires an Active Trader account type, while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
+It is also very important to note that historical prices are available only via ForexConnect and Java API
 
 |API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
 |:---:|---|---|---|---|---|---|
@@ -13,9 +14,9 @@ In order to register for our FIX API there is minimum account size requirement o
 
 >*Market dependent. If the market is volatile you may receive more prices per second.
 
->**Requires a standard account.
+>**Requires a Standard account.
 
->***Requires a minimum account size of USD $25,000
+>***Requires an Active Trader account.
 
 
 You can find more information through the following links:
