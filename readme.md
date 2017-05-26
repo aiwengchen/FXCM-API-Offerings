@@ -102,4 +102,11 @@ This SDK is used to create/debug/test and compile indicators or strategies to be
 
 •	Trailing orders (ST, STE, LT, LTE)
 
+##MAX length of some fields
+ClOrdID  (aka RID or REQUEST_ID – max: 128)
+ClOrdLinkID(aka LIST_ID – max: 128)
+SecondaryClOrdID (aka RTXT or REQUEST_TEXT– max: 512)
+Parties group list  (aka PARTIES – max: 4000)
+
+You will receive a new Rejecting reason code 99 : other
 
