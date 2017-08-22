@@ -110,3 +110,7 @@ Parties group list  (aka PARTIES – max: 4000)
 
 You will receive a new Rejecting reason code 99 : other
 
+##Update: For FIX API:
+FXCM implemented a new MsgType&lt;35&gt; X when 
+sending a symbol subscription MsgType&lt;35&gt; V. For details, <a href="https://docs.fxcorporate.com/api-message-info.pdf" target="_blank"> click here</a>
+
