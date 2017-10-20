@@ -16,7 +16,7 @@ It is also very important to note that historical prices are available only via 
 
 >**Requires a Standard account.
 
->***Requires an Active Trader account.
+>***An FXCM account with a $5,000 minimum balance required.
 
 
 You can find more information through the following links:
