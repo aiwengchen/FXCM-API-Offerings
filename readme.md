@@ -1,3 +1,4 @@
+## Trading APIs
 FXCM currently offers 3 trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server.
  
 FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
