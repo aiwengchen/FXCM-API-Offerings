@@ -18,5 +18,5 @@ It is also very important to note that historical prices are available only via 
 
 Real Case Study:
 Java API:
-1. How to build Rsi signal and back testing using FXCM Java API. 
-https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/FXCM_Java_API_Tutorial_RsiSignal_Strategy.zip 
+1. How to build Rsi signal and back testing using FXCM Java API. <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/FXCM_Java_API_Tutorial_RsiSignal_Strategy.zip" target="_blank"> click here</a>
+ 
