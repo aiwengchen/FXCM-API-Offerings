@@ -1,5 +1,5 @@
 ## Trading APIs
-FXCM currently offers 3 trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server.
+FXCM currently offers 4 trading APIs for free:  Java API, FIX API and ForexConnect and Rest API with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
  
 FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
 It is also very important to note that historical prices are available only via ForexConnect and Java API
@@ -16,6 +16,21 @@ It is also very important to note that historical prices are available only via 
 >**Requires a Standard account.
 
 >***An FXCM account with a $5,000 minimum balance required.
+
+## Rest API
+Our REST API is a web-based API using a Websocket connection and was developed with algorithmic trading in mind. 
+
+Developers and investors can create custom trading applications, integrate into our platform in a stateless manner and manage sessions with ease. 
+
+With the use of the socket.io library, the API has streaming capability and will push data notifications in a JSON format. Your application will have access to our real-time streaming market data, subscribe in real time access to trading tables and place live trades.
+
+To begin using our API, you will need the following:
+
+1.	An FXCM account. You can apply for a demo account <a href="https://www.fxcm.com/">here</a> 
+2.	A persistent access token. You can generate one from the <a href="https://tradingstation.fxcm.com/">Trading Station web</a>. Click on User Account > Token Management on the upper right hand of the website.
+3.	Start coding.  You will need to reference the <a href="https://socket.io/docs/client-api/">socket.io library</a> in your code. 
+a.	Using Javascript, click <a href="https://www.npmjs.com/package/socket.io">here</a>
+b.	 Using Python, click <a href="https://pypi.python.org/pypi/socketIO-client">here</a>
 
 ## Real Case Study:
 
