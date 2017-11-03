@@ -31,8 +31,8 @@ To begin using our API, you will need the following:
 3.	Download Rest API word documents at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/Socket%20REST%20API%20Specs.docx">here</a>
 4. Documents in Swagger format at <a href="https://fxcmapi.github.io/rest-api-docs/#"> here</a> 
 5. Start coding.  You will need to reference the <a href="https://socket.io/docs/client-api/">socket.io library</a> in your code. 
-a.	Using Javascript, click <a href="https://www.npmjs.com/package/socket.io">here</a>
-b.	 Using Python, click <a href="https://pypi.python.org/pypi/socketIO-client">here</a>
+   a.	Using Javascript, click <a href="https://www.npmjs.com/package/socket.io">here</a>
+   b.	 Using Python, click <a href="https://pypi.python.org/pypi/socketIO-client">here</a>
 6. Sample code for Python at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/PermanentTokenPost.py">here</a> 
 ## Real Case Study:
 
