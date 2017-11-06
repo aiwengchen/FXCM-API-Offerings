@@ -1,22 +1,3 @@
-## Trading APIs
-FXCM currently offers 4 trading APIs for free:  Java API, FIX API and ForexConnect and Rest API with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
- 
-FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
-It is also very important to note that historical prices are available only via ForexConnect and Java API
-
-|API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
-|:---:|---|---|---|---|---|---|
-|**FIX**|Up to 300 per second*|Any|Free***|No|Yes|No|
-|**ForexConnect API**|2-3 per second|C++, C#, Java, VB, VBA|Free**|Yes|Yes|Limited Yes|
-|**Java Trading API**|2-3 per second|Java|Free**|Yes|Yes|Limited Yes|
-
-
->*Market dependent. If the market is volatile you may receive more prices per second.
-
->**Requires a Standard account.
-
->***An FXCM account with a $5,000 minimum balance required.
-
 ## Rest API
 Our REST API is a web-based API using a Websocket connection and was developed with algorithmic trading in mind. 
 
@@ -34,7 +15,33 @@ To begin using our API, you will need the following:
    a.	Using Javascript, click <a href="https://www.npmjs.com/package/socket.io">here</a>
    b.	 Using Python, click <a href="https://pypi.python.org/pypi/socketIO-client">here</a>
 6. Sample code for Python at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/PermanentTokenPost.py">here</a> 
+
+## Other Trading APIs
+Except RestAPI, FXCM offers 3 other trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
+ 
+FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
+It is also very important to note that historical prices are available only via ForexConnect and Java API
+
+|API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
+|:---:|---|---|---|---|---|---|
+|**FIX**|Up to 300 per second*|Any|Free***|No|Yes|No|
+|**ForexConnect API**|2-3 per second|C++, C#, Java, VB, VBA|Free**|Yes|Yes|Limited Yes|
+|**Java Trading API**|2-3 per second|Java|Free**|Yes|Yes|Limited Yes|
+
+
+>*Market dependent. If the market is volatile you may receive more prices per second.
+
+>**Requires a Standard account.
+
+>***An FXCM account with a $5,000 minimum balance required.
+
+
 ## Real Case Study:
+
+### Rest API:
+1. How to run BT backtest on FXCM historical data via RestAPI at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/BT strategy on FXCM data.zip">here</a>
+<a href="http://pmorissette.github.io/bt/">What is bt?</a> 
+
 
 ### Java API:
 1. How to build Rsi signal and back testing using FXCM Java API. <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/FXCM_Java_API_Tutorial_RsiSignal_Strategy.zip" target="_blank"> click here</a>
