@@ -39,8 +39,8 @@ It is also very important to note that historical prices are available only via 
 ## Real Case Study:
 
 ### Rest API:
-1. How to run BT backtest on FXCM historical data via RestAPI at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/BT strategy on FXCM data.zip">here</a>
-<a href="http://pmorissette.github.io/bt/">What is bt?</a> 
+1. Learn how to run BT backtest on FXCM historical data via RestAPI at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/BT strategy on FXCM data.zip">here</a>. 
+What is <a href="http://pmorissette.github.io/bt/">bt?</a> 
 
 
 ### Java API:
