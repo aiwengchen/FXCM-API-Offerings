@@ -1,4 +1,4 @@
-## Rest API
+## Rest API (still on testing)
 Our REST API is a web-based API using a Websocket connection and was developed with algorithmic trading in mind. 
 
 Developers and investors can create custom trading applications, integrate into our platform in a stateless manner and manage sessions with ease. 
