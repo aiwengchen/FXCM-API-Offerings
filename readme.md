@@ -35,7 +35,7 @@ It is also very important to note that historical prices are available only via 
 
 >***An FXCM account with a $5,000 minimum balance required.
 
-### FIX API: detail at <a href="">here</a>
+### FIX API: detail at <a href="https://github.com/FXCMAPI/FXCM-API-Offerings/tree/master/FXCM-FIX">here</a>
 ### Java API: detail at <a href="">here</a>
 ### ForexConnect API: detail at <a href="">here</a>
 
