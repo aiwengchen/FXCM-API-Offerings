@@ -37,7 +37,7 @@ It is also very important to note that historical prices are available only via 
 
 ### FIX API: detail at <a href="https://github.com/FXCMAPI/FXCM-API-Offerings/tree/master/FXCM-FIX">here</a>
 ### Java API: detail at <a href="">here</a>
-### ForexConnect API: detail at <a href="">here</a>
+### ForexConnect API: detail at <a href="https://github.com/FXCMAPI/FXCM-API-Offerings/tree/master/FXCM-ForexConnect">here</a>
 
 ## Real Case Study:
 
