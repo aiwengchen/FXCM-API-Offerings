@@ -47,7 +47,8 @@ What is <a href="http://pmorissette.github.io/bt/">bt?</a>
 2. Learn how to run QSTrader on FXCM data via RestAPI at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/QSTrader on FXCM data.zip">here</a>. 
 what is <a href="https://www.quantstart.com/qstrader">QSTrader?</a>
 3. Lean how to run build/back test 3 strategies "MovingAverageCrossStrategy","BollingerBandStrategy","DonchianChannelStrategy" via FXCM Rest API at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/ThreeStrategies.zip">here</a>.
-4. Two more strategies "RangeStrategy", "BreakOutStrategy" are at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/2StrategiesViaRestAPI.zip">here</a>.
+4. Two more strategies "RangeStrategy", "BreakOutStrategy" at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/2StrategiesViaRestAPI.zip">here</a>.
+5. Building/back testing RSI strategy via RestAPI at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/RestAPI/RsiStrategy_ResAPI.zip">here</a>.
 
 ### Java API:
 1. How to build Rsi signal and back testing using FXCM Java API. <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/FXCM_Java_API_Tutorial_RsiSignal_Strategy.zip" target="_blank"> click here</a>
