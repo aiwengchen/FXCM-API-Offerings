@@ -15,6 +15,7 @@ To begin using our API, you will need the following:
    a.	Using Javascript, click <a href="https://www.npmjs.com/package/socket.io">here</a>
    b.	 Using Python, click <a href="https://pypi.python.org/pypi/socketIO-client">here</a>
 6. Sample code for Python at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/PermanentTokenPost.py">here</a> 
+7. Sample code for Java Script at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/client4.js">here</a>
 
 ## Other Trading APIs
 Except RestAPI, FXCM offers 3 other trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
