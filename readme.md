@@ -21,7 +21,7 @@ To begin using our API, you will need the following:
 Except RestAPI, FXCM offers 3 other trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
  
 FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
-It is also very important to note that historical prices are available only via ForexConnect and Java API
+It is also very important to note that historical prices are available only via ForexConnect, Java API and Rest API.
 
 |API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
 |:---:|---|---|---|---|---|---|
