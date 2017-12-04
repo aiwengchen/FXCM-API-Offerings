@@ -25,6 +25,7 @@ It is also very important to note that historical prices are available only via 
 
 |API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
 |:---:|---|---|---|---|---|---|
+|**Rest API**|Vary*|Any|Free**|Yes|Yes|Limited Yes|
 |**FIX**|Up to 300 per second*|Any|Free***|No|Yes|No|
 |**ForexConnect API**|2-3 per second|C++, C#, Java, VB, VBA|Free**|Yes|Yes|Limited Yes|
 |**Java Trading API**|2-3 per second|Java|Free**|Yes|Yes|Limited Yes|
