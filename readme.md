@@ -1,7 +1,7 @@
 ## Rest API (still on testing)
 Our REST API is a web-based API using a Websocket connection and was developed with algorithmic trading in mind. 
 
-Developers and investors can create custom trading applications, integrate into our platform in a stateless manner and manage sessions with ease. 
+Developers and investors can create custom trading applications, integrate into our platform, back test strategies and build robot trading. Calls can be made in any language that supports a standard HTTP. 
 
 We utilize the new OAuth 2.0 specification for authentication via token. This allows for a more secure authorization to access your application and can easily be integrated with web applications, mobile devices, and desktop platforms
 
