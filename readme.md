@@ -20,10 +20,13 @@ To begin using our API, you will need the following:
 7. Sample code for Java Script at <a href="https://apiwiki.fxcorporate.com/api/RestAPI/client4.js">here</a>
 
 ## Other Trading APIs
-Except RestAPI, FXCM offers 3 other trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server. Rest API is still in demo, will update you when it release to prod.
+Except RestAPI, FXCM offers 3 other trading APIs for free:  Java API, FIX API and ForexConnect with each of them connecting directly to FXCM’s trading server.
  
-FIX API requires an Active Trader account type (An FXCM account with a $5,000 minimum balance required), while other two APIs require at least a Standard account. Requirements for these account types depend on the entity. For more information please contact your account manager at FXCM.
-It is also very important to note that historical prices are available only via ForexConnect, Java API and Rest API.
+FIX API is FIX Protocol standard designed for real-time, custom institutional interface which push up to 250 price update per second (not available on other APIs). It is our fastest and most popular option. You will get full range of trading order types available at FXCM. An FXCM TSII account with a $5,000 minimum balance is required.
+
+Java API, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM trading platform, including streaming live price, get historical price and live trades. It is a scalable, light and robust which compatible on any Java-compliant operating system.
+
+The ForexConnect API offers all the same functionality of the powerful FXCM Trading Station. This includes all of the available order types, streaming live price, managing your positions, downloading historical instrument rates, getting account reports, and more. ForexConnect supports C++, C#, Java, VB, VBA, compatible with .Net, Linux, iOS and Android, and it is FREE.
 
 |API Name|Price Feed Frequency|Supporting Languages|Cost|Historical Price|Support CFD|Support MT4|
 |:---:|---|---|---|---|---|---|
